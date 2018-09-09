@@ -3,17 +3,17 @@
     <md-toolbar class="md-primary">
       <h1>WyoMesh Audit</h1>
     </md-toolbar>
-    <IndeedScraperExport/>
+    <WyoMesh/>
   </div>
 </template>
 
 <script>
-import IndeedScraperExport from './components/IndeedScraperExport.vue'
+import WyoMesh from './components/WyoMesh.vue'
 
 export default {
   name: 'app',
   components: {
-    IndeedScraperExport
+    WyoMesh
   }
 }
 </script>
