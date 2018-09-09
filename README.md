@@ -1,4 +1,4 @@
-# indeed-export
+# WyoMesh Auditing Frontend
 
 ## Project setup
 ```
