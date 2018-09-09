@@ -1,7 +1,7 @@
 <template>
   <div id="app">
     <md-toolbar class="md-primary">
-      <h1>WyoMesh Audit</h1>
+      <h1>WyoMesh Auditing Frontend</h1>
     </md-toolbar>
     <WyoMesh/>
   </div>

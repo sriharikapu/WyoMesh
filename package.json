@@ -1,5 +1,5 @@
 {
-  "name": "indeed-export",
+  "name": "wyomesh-audit",
   "version": "0.1.0",
   "private": true,
   "scripts": {
@@ -9,10 +9,7 @@
     "lint": "vue-cli-service lint"
   },
   "dependencies": {
-    "indeed-scraper": "^2.0.2",
-    "request-promise": "^4.2.2",
     "vue": "^2.5.17",
-    "vue-json-csv": "^1.1.0",
     "vue-material": "^1.0.0-beta-10.2"
   },
   "devDependencies": {
